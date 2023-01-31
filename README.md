@@ -1,1 +1,1 @@
-my first readme yes ! 
+my first readme
